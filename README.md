@@ -1,4 +1,4 @@
-### Hi, I'm Lokesh 👋.💻
+### Hi there, I'm Lokesh 👋.💻
 
 <img src="https://raw.githubusercontent.com/loki47ch/loki47ch/master/.github/images/banner.png" alt="profile banner">
 I am a Full-stack developer with industry experience building enterprise-level web applications and back-end solutions. I specialize in TypeScript/JavaScript and have professional experience working with NodeJs and ReactJs. I also have experience working with GraphQL, VueJs, NextJs and Gatsby. Get in touch to learn more about my work!
