@@ -1,4 +1,4 @@
-### Hi there, I'm Lokesh 👋.💻
+### Hello World, I'm Lokesh!
 
 <!--
 <img src="https://raw.githubusercontent.com/loki47ch/loki47ch/master/.github/images/banner.png" alt="profile banner">
